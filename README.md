@@ -9,6 +9,7 @@ Package with Leiningen
 	lein uberjar
 
 And then run with:
+
         java -jar target/find-duplicates-0.1.0-SNAPSHOT-standalone.jar $HOME/myfiles
 
 Or with Leiningen:
